@@ -1,0 +1,9 @@
+- ##sobre mim 
+
+
+-  oi eu sou  @dulcemorais 
+- 👀 estou enteressada em elaborar jogos...
+- 🌱 em aprender java script,HTML e CSS ...
+- 💞️ meu hobby É assistir series ...
+- 📫 voce pode me encontrar em @dulce.maria.santos@escola.pr.gov.br
+
